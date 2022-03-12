@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+
+
+
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="57" height="57" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="57" height="57" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="57" height="57" /></div>
